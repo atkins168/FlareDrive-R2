@@ -40,7 +40,7 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://cntv.pzz.io",
+      homeUrl: "https://cntv.qzz.io",
       blogUrl: "https://sub.vcx.qzz.io/x/IOHxH7a",
       githubUrl: "https://github.com/atkins168",
       emailUrl: "mailto:atkins@cntv.qzz.io"
